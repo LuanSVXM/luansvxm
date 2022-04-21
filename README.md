@@ -1,4 +1,4 @@
-<div style="width:100%; display:flex; justify-content:center"> 
+<div style="background-color: red;"> 
 
     <h3> Seja Bem vindo este é meu perfil!!, Me chamo 
       <a href="https://github.com/LuanSVXM">  Luan Vieira <a>  
