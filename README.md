@@ -20,7 +20,7 @@
    Me chamo Luan Vieira tenho 20 anos(2022), sempre fui interado com tecnologia ainda mais que adoro jogar :video_game:, já programo  um tempo mas nunca cheguei a postar nas redes, e esse ano resolvi dar uma repaginada aqui no git e aceito dicas de design (hehe).
       
   
-<br><h3>🚀 Skils </h3>
+<h3>🚀 Skils </h3>
   
 <div style="display: inline_block">
             
@@ -33,7 +33,7 @@
 <img align="center" alt="Angular" height="28" width="76" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" > 
 <img align="center" alt="React_Native" height="28" width="76" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" >  
                       
-</div><br>
+</div>
 
 <h3> :calling: Contatos </h3>
 
