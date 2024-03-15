@@ -12,7 +12,7 @@
 <h3> 📝 Sobre Mim </h3>
       
 
-   Me chamo Luan Vieira tenho 22 anos(2023), sempre fui interado com tecnologia ainda mais que adoro jogar :video_game:, já programo  um tempo mas nunca cheguei a postar nas redes, e esse ano resolvi dar uma repaginada aqui no git e aceito dicas de design (hehe).
+   Me chamo Luan Vieira tenho 22 anos(2024), sempre fui interado com tecnologia ainda mais que adoro jogar :video_game:, já programo  um tempo mas nunca cheguei a postar nas redes, e esse ano resolvi dar uma repaginada aqui no git e aceito dicas de design (hehe).
       
   
 <h3>🚀 Skils </h3>
